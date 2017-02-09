@@ -91,3 +91,6 @@ ENV/
 
 # VSCode
 .vscode
+
+# ctags
+tags
